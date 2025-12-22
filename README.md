@@ -10,10 +10,10 @@ Liked recipes page
 User feedback support
 
 ## Technology Stack
-Frontend: TypeScript, CSS, HTML
-Backend: Supabase
-AI: AI-powered recipe generation
-Deployment: Vercel
+- Frontend: TypeScript, CSS, HTML
+- Backend: Supabase
+- AI: AI-powered recipe generation
+- Deployment: Vercel
 
-## Live Demo
+## Deployment link
 https://fridgeaifinal-jug0qn9pe-olgakhans-projects.vercel.app/
