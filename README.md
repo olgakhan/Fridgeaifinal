@@ -10,7 +10,7 @@ FridgeAI is a web-based application that generates recipe ideas based on user-pr
 - User feedback support
 
 ## Technology Stack
-- Frontend: TypeScript, CSS, HTML
+- Frontend: TypeScript, HTML, and CSS, building upon an initial Figma AI–generated skeleton and redesigning it to improve usability, layout, and responsiveness.
 - Backend: Supabase
 - AI: OpenAI-powered recipe generation
 - Deployment: Vercel
