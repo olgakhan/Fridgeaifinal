@@ -12,7 +12,7 @@ User feedback support
 ## Technology Stack
 - Frontend: TypeScript, CSS, HTML
 - Backend: Supabase
-- AI: AI-powered recipe generation
+- AI: OpenAI-powered recipe generation
 - Deployment: Vercel
 
 ## Deployment link
