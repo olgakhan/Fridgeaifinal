@@ -18,6 +18,9 @@ FridgeAI is a web-based application that generates recipe ideas based on user-pr
 ## Deployment link
 https://fridgeaifinal-jug0qn9pe-olgakhans-projects.vercel.app/
 
+## Youtube Demo Video (if applicable)
+https://youtu.be/B9rkWj6UDpw
+
 ## Related files
 - FridgeAI_Presentation is my pdf presentation file
 - FridgeAI_FULL is my project documentation (including SRS/PRD, design, UML, test cases, etc)
